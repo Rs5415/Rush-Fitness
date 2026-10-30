@@ -1,0 +1,6 @@
+{
+  "name": "RUSH Fitness - Unisex Gym Deoghar",
+  "description": "Professional modern website demo for RUSH Fitness, a premier unisex gym in Bompas Town, Deoghar, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
